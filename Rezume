@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+	<title>REZUME</title>
+
+	<link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,600,700' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+	<header>
+		<h1>Резюме<h1>
+	</header>
+
+	<section>
+		<table border="2">
+			<tr>
+			<td><img src="https://pp.vk.me/c630330/v630330199/2a6a/jXDoeUmeSpk.jpg" alt=""></td>
+			<td><h2><i><b>Форостяный</b></i></h2><h3><i>Александр Васильевич</i></h3></td>
+			</tr>
+		</table>
+	</section>
+
+	<section>
+		<table>
+			<tr>
+			<td><h4>Личная информация</h4></td>
+			</tr>
+				<tr>
+				<td width="45%">Дата рождения:</td>
+				<td>23 августа 1981 года</td>
+				</tr>
+			<tr>
+			<td width="20%">Уровень образования:</td>
+			<td>Высшее, закончил <a href="https://www.google.com.ua/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjInK6WwMTPAhVHkywKHVC5B9EQFggbMAA&url=http%3A%2F%2Fodeku.edu.ua%2Flanguage%2Fru%2Fglavnaya-3%2F&usg=AFQjCNGQsStX5E99O8_R1spg9PnpDGbs3g&sig2=2jVrghACsY_jOE4pJbezvg">ОГЭкУ</a> в 2003 году</td>
+			</tr>
+				<tr>
+				<td width="20%">Город проживания:</td>
+				<td>Одесса</td>
+				</tr>
+			<tr>
+			<td width="20%">Семейное положение:</td>
+			<td>Женат</td>
+			</tr>
+		</table>
+	</section>
+
+	<section>
+		<table>
+			<tr>
+			<td><h4>Опыт работы</h4></td>
+			</tr>
+				<tr>
+				<td width="29%">Период работы:</td>
+				<td>С апреля 2006 года по настоящее время</td>
+				</tr>
+			<tr>
+			<td>Должность:</td>
+			<td>Инспектор отдела кадров, заместитель начальника отдела кадров</td>
+			</tr>
+				<tr>
+				<td>Организация:</td>
+				<td>Государственное предприятие</td>
+				</tr>
+			<tr>
+			<td width="5%">Должностные обязанности:</td>
+			<td>
+				<ul>
+					<li>Отбор персонала среди кандидатов</li>
+					<li>Оформление на работу</li>
+					<li>Ведение кадровой документации</li>
+					<li>Подготовка приказов о назначении, переводу и увольнению персонала</li>
+				</ul>
+			 </td>
+			</tr>
+		</table>
+	</section>
+
+	<section>
+		<table>
+			<tr>
+			<tdwidth="100%"><h4>Иностранные языки и компьютерные навыки:</h4></td>
+			</tr>
+				<tr>
+				<td width="35%">Английский язык:</td>
+				<td>Слабо</td>
+				</tr>
+			<tr>
+			<td>Компьютерные навыки:</td>
+			<td>сборка-расборка и настройка ПК, Word, Internet, оргтехника</td>
+			</tr>
+		</table>
+	</section>	
+
+	<section>
+		<table>
+			<tr>
+			<td><h4>Дополнительная информация:</h4></td>
+			</tr>
+				<tr>
+				<td>Наличие водительских прав:</td>
+				<td>Категория В</td>
+				</tr>
+			<tr>
+			<td>Увлечения:</td>
+			<td>Спорт - настольный теннис </td>
+			</tr>
+				<tr>
+				<td></td>
+				<td><a href="https://vk.com/sportligafm"> <img src="http://sportbay.com.ua/upload/iblock/f7e/f7e86a4f4f19d52ed267b5098fc3f56f.jpg" alt=""></a></td>
+				</tr>
+		</table>
+	</section>	
+
+</body>
+</html>
